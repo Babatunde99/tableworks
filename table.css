@@ -1,0 +1,19 @@
+#t-style {
+  background-color: aliceblue;
+  border: 2px solid;
+  width: 1000px;
+  font-family: Georgia;
+  border-collapse: collapse;
+}
+#t-style thead {
+  color: blue;
+  background-color: chocolate;
+  font-size: 30px;
+}
+#t-style thead td {
+  border: 3px solid;
+}
+#t-style tr td {
+  padding: 40px;
+  border: 2px solid black;
+}
