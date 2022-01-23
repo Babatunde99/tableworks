@@ -1,0 +1,61 @@
+#t-style {
+  background-color: aliceblue;
+  border: 2px solid;
+  width: 1000px;
+  font-family: Georgia;
+  border-collapse: collapse;
+}
+#tt-style {
+  background-color: aliceblue;
+  border: 2px solid;
+  width: 1000px;
+  font-family: fantasy;
+  border-collapse: collapse;
+}
+#ttt-style {
+  background-color: aliceblue;
+  border: 2px solid;
+  width: 1000px;
+  font-family: cursive;
+  border-collapse: collapse;
+}
+#t-style thead {
+  background-color: aqua;
+  color: blue;
+  font-family: Cambria;
+  border: 2px solid;
+}
+#t-style thead td {
+  border: 3px solid;
+}
+#t-style tr td {
+  padding: 20px;
+  border: 2px solid black;
+}
+#tt-style thead {
+  background-color: blueviolet;
+  color: black;
+  font-family: fantasy;
+  border: 2px solid;
+}
+#tt-style thead td {
+  border: 3px solid;
+}
+#tt-style tr td {
+  padding: 20px;
+  border: 3px solid;
+}
+#ttt-style thead {
+  background-color: darkgray;
+  color: black;
+  font-family: cursive;
+  border: 2px solid;
+  border-radius: 20px;
+}
+#ttt-style thead td{
+    border: 2px solid;
+}
+#ttt-style tr td{
+    padding: 20px;
+    border: 2px solid;
+}
